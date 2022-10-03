@@ -31,7 +31,7 @@ def getRes():
     
     """
     ctr=0
-    for x in range(334):
+    for x in range(334): #x smallest
         
         for y in range(x,500):
             ctr+=1
